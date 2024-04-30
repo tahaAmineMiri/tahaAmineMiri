@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Dev Ops**
 
-💬 Ask me about **Python, JavaScript, Vector Database... or anything [here](https://github.com/tahaAmineMiri/)**
+💬 Ask me about **Python, JavaScript, Vector Database... or anything [here](www.linkedin.com/in/taha-amine-miri)**
 
  </div>
  
