@@ -8,10 +8,6 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **LLM Evaluation pipeline**
- 
- 🌱 I’m currently learning **Dev Ops**
 
 💬 Ask me about **Python, JavaScript, Vector Database... or anything**
 
